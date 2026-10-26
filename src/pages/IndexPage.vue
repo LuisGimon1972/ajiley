@@ -1,9 +1,9 @@
 <template>
   <q-page class="flex flex-center bg-green-10">
-    <TrucoCard />
+    <AjileyCard />
   </q-page>
 </template>
 
 <script setup lang="ts">
-import TrucoCard from 'src/pages/TrucoVenezolano.vue';
+import AjileyCard from 'src/pages/AjileyPage.vue';
 </script>
